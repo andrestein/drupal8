@@ -1,0 +1,6 @@
+name: Hellow World
+description: un ejemplo simple
+package: Custom
+type: module
+core: 8.x
+version: '1.0'
